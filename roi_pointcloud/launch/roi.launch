@@ -1,0 +1,3 @@
+<launch>
+<node pkg="roi_pointcloud" name="roi_pointcloud" type="roi_pointcloud_roiFilter" output="screen"/>
+</launch>
